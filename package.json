@@ -1,0 +1,21 @@
+{
+  "name": "connect-tests",
+  "version": "1.0.0",
+  "description": "Tests used in Connect project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we-ai/connect-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/we-ai/connect-tests/issues"
+  },
+  "homepage": "https://github.com/we-ai/connect-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
